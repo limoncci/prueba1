@@ -1,4 +1,8 @@
 prueba1
 =======
 
-probando
+Hemos probado
+ * clone
+ * add
+ * commit
+ * push
